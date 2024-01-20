@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * is_non_empty - Checks if a string is not empty.

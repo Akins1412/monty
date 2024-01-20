@@ -1,4 +1,4 @@
-#include "main.h"
+#include "monty.h"
 
 /**
  * push_to_stack - Pushes an element onto the stack.
