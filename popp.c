@@ -4,7 +4,7 @@
  * @tpr: stack head
  * @linumb: line_number
 */
-void _pop(stack_t **tpr, unsigned int linumb)
+void _popt(stack_t **tpr, unsigned int linumb)
 {
 	stack_t *allt;
 

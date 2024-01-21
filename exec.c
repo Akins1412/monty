@@ -18,7 +18,7 @@ int _executet(char *cont, stack_t **tpr, unsigned int linumb, FILE *file)
 				{"sub", _subt},
 				{"div", _divt},
 				{"mul", _mult},
-				{"mod", _mod},
+				{"mod", _modt},
 				{"stack", _stackt},
 				{"queue", _queue},
 				{NULL, NULL}
